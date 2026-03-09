@@ -1,0 +1,22 @@
+[
+  { "id": 1, "slug": "ergonomischer-buerostuhl", "name": "Ergonomischer Bürostuhl", "description": "Hochwertiger Bürostuhl mit Lordosenstütze und verstellbaren Armlehnen.", "price": 349.99, "category": "Büromöbel" },
+  { "id": 2, "slug": "stehschreibtisch-elektrisch", "name": "Stehschreibtisch Elektrisch", "description": "Höhenverstellbarer Schreibtisch mit Memory-Funktion und Kollisionsschutz.", "price": 599.00, "category": "Büromöbel" },
+  { "id": 3, "slug": "mechanische-tastatur", "name": "Mechanische Tastatur", "description": "Cherry MX Brown Switches, RGB-Beleuchtung, deutsches Layout.", "price": 129.95, "category": "Peripherie" },
+  { "id": 4, "slug": "ultrawide-monitor-34", "name": "Ultrawide Monitor 34\"", "description": "34 Zoll UWQHD IPS-Panel mit USB-C Docking und 100Hz.", "price": 479.00, "category": "Monitore" },
+  { "id": 5, "slug": "wireless-maus-ergonomisch", "name": "Wireless Maus Ergonomisch", "description": "Vertikale ergonomische Maus mit Bluetooth und USB-C Ladung.", "price": 59.99, "category": "Peripherie" },
+  { "id": 6, "slug": "usb-c-dockingstation", "name": "USB-C Dockingstation", "description": "12-in-1 Dockingstation mit Dual-HDMI, Ethernet und 100W PD.", "price": 89.95, "category": "Zubehör" },
+  { "id": 7, "slug": "noise-cancelling-headset", "name": "Noise Cancelling Headset", "description": "Over-Ear Headset mit ANC, 30h Akku und abnehmbarem Mikrofon.", "price": 199.00, "category": "Audio" },
+  { "id": 8, "slug": "webcam-4k-autofokus", "name": "Webcam 4K Autofokus", "description": "4K Webcam mit HDR, Autofokus und integriertem Ringlicht.", "price": 119.99, "category": "Peripherie" },
+  { "id": 9, "slug": "monitorarm-dual", "name": "Monitorarm Dual", "description": "Gasdruckfeder-Monitorarm für zwei Bildschirme bis 32 Zoll.", "price": 79.95, "category": "Zubehör" },
+  { "id": 10, "slug": "schreibtischlampe-led", "name": "Schreibtischlampe LED", "description": "Dimmbare LED-Schreibtischlampe mit Farbtemperatur-Steuerung.", "price": 49.99, "category": "Beleuchtung" },
+  { "id": 11, "slug": "kabelmanagement-set", "name": "Kabelmanagement Set", "description": "Komplett-Set mit Kabelkanal, Klettbändern und Kabelclips.", "price": 24.95, "category": "Zubehör" },
+  { "id": 12, "slug": "laptop-staender-aluminium", "name": "Laptop Ständer Aluminium", "description": "Verstellbarer Laptop-Ständer aus Aluminium mit Belüftung.", "price": 39.99, "category": "Zubehör" },
+  { "id": 13, "slug": "usb-mikrofon-kondensator", "name": "USB Mikrofon Kondensator", "description": "Kondensator-Mikrofon mit Nierencharakteristik, Mute-Taste und Gain-Regler.", "price": 89.00, "category": "Audio" },
+  { "id": 14, "slug": "mauspad-xxl", "name": "Mauspad XXL", "description": "Großes Schreibtisch-Mauspad (900x400mm) mit Anti-Rutsch-Unterseite.", "price": 19.95, "category": "Peripherie" },
+  { "id": 15, "slug": "bluetooth-lautsprecher-desk", "name": "Bluetooth Lautsprecher Desk", "description": "Kompakter Schreibtisch-Lautsprecher mit Bluetooth 5.3 und AUX.", "price": 69.99, "category": "Audio" },
+  { "id": 16, "slug": "dokumentenhalter-a4", "name": "Dokumentenhalter A4", "description": "Verstellbarer Dokumentenhalter für A4-Dokumente neben dem Monitor.", "price": 29.95, "category": "Zubehör" },
+  { "id": 17, "slug": "fussstuetze-ergonomisch", "name": "Fußstütze Ergonomisch", "description": "Höhenverstellbare Fußstütze mit Massagefläche und Anti-Rutsch.", "price": 44.99, "category": "Büromöbel" },
+  { "id": 18, "slug": "bildschirmreiniger-set", "name": "Bildschirmreiniger Set", "description": "Reinigungsset mit Spezialflüssigkeit und Mikrofasertüchern.", "price": 14.95, "category": "Zubehör" },
+  { "id": 19, "slug": "usb-hub-7-port", "name": "USB Hub 7-Port", "description": "Aktiver USB 3.0 Hub mit 7 Ports und externem Netzteil.", "price": 34.99, "category": "Zubehör" },
+  { "id": 20, "slug": "handgelenkauflage-tastatur", "name": "Handgelenkauflage Tastatur", "description": "Memory-Foam Handgelenkauflage für Tastatur, waschbarer Bezug.", "price": 22.95, "category": "Peripherie" }
+]
