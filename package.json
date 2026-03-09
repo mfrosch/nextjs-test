@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node --require ./fix-memory.js node_modules/.bin/next build",
+    "build": "NODE_OPTIONS='--require ./fix-memory.js' next build",
     "start": "next start -p $PORT",
     "lint": "next lint"
   },
