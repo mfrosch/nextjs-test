@@ -4,19 +4,19 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "NODE_OPTIONS='--require ./fix-memory.js' next build",
+    "build": "NODE_OPTIONS='--require ./fix-memory.js' next build --webpack",
     "start": "next start -p $PORT",
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^14.2.29",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
   },
   "devDependencies": {
     "@types/node": "^20.17.24",
-    "@types/react": "^18.3.18",
-    "@types/react-dom": "^18.3.5",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.5.3",
     "tailwindcss": "^3.4.17",
